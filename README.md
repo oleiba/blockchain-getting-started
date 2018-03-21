@@ -4,7 +4,7 @@ Collection of useful resources and academic papers for getting started with bloc
 ## Getting Started
 [Bitcoin White Paper - Satoshi Nakamoto](https://bitcoin.org/bitcoin.pdf)<br>
 [How Bitcoin Works Under the Hood - 22 minutes (video)](https://www.youtube.com/watch?v=Lx9zgZCMqXE)<br>
-[Mastering Bitcoin - Andreas Antonopolus (digital book)](https://github.com/bitcoinbook/bitcoinbook)
+[Mastering Bitcoin - Andreas Antonopolus (digital book)](https://github.com/bitcoinbook/bitcoinbook)<br>
 [MIT cryptocurrencies course](https://github.com/mit-dci/mas.s62)
 
 ## Security

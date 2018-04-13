@@ -7,6 +7,11 @@ Collection of useful resources and academic papers for getting started with bloc
 [Mastering Bitcoin - Andreas Antonopolus (digital book)](https://github.com/bitcoinbook/bitcoinbook)<br>
 [MIT cryptocurrencies course](https://github.com/mit-dci/mas.s62)
 
+## Getting Started - Ethereum
+[Smart Contracts and Blockchain Security Course - University of Illinois](http://soc1024.ece.illinois.edu/teaching/ece398sc/spring2018/)<br>
+[How does Ethereum work anyway? (Blog post)](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)<br>
+[Build Your First Smart Contract With Solidity](https://codeburst.io/build-your-first-ethereum-smart-contract-with-solidity-tutorial-94171d6b1c4b)<br>
+
 ## Security
 [Bitcoin's Security Model: A Deep Dive](https://www.coindesk.com/bitcoins-security-model-deep-dive/)<br>
 [Bitcoin's Threat Model](https://jwweatherman.com/#/bitcoinThreatModel)<br>

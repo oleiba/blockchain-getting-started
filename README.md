@@ -59,8 +59,8 @@ Men with No Names](https://cseweb.ucsd.edu/~smeiklejohn/files/imc13.pdf)<br>
 [Deanonymisation of clients in Bitcoin P2P network
 ](https://arxiv.org/pdf/1405.7418.pdf)<br>
 [Zerocash (paper)](http://zerocash-project.org/media/pdf/zerocash-oakland2014.pdf)<br>
-[Monero Research Lab (papers)](https://lab.getmonero.org/)
-[An Empirical Analysis of Traceability in the Monero Blockchain](https://arxiv.org/pdf/1704.04299/)
-[A Traceability Analysis of Monero’s Blockchain](http://www.comp.nus.edu.sg/~shruti90/papers/monero-analysis.pdf)
-[On the linkability of Zcash transactions](https://arxiv.org/pdf/1712.01210.pdf)
-[An Empirical Analysis of Anonymity in Zcash](https://smeiklej.com/files/usenix18.pdf)
+[Monero Research Lab (papers)](https://lab.getmonero.org/)<br>
+[An Empirical Analysis of Traceability in the Monero Blockchain](https://arxiv.org/pdf/1704.04299/)<br>
+[A Traceability Analysis of Monero’s Blockchain](http://www.comp.nus.edu.sg/~shruti90/papers/monero-analysis.pdf)<br>
+[On the linkability of Zcash transactions](https://arxiv.org/pdf/1712.01210.pdf)<br>
+[An Empirical Analysis of Anonymity in Zcash](https://smeiklej.com/files/usenix18.pdf)<br>

@@ -36,9 +36,11 @@ Bitcoin Mining is Vulnerable - Selfish Mining (paper)](https://www.cs.cornell.ed
 [Mastering Bitcoin - Lightning Network](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch12.asciidoc#payment-channels-and-state-channels)<br>
 [Understanding the Lightning Network - Bitcoin Magazine](https://bitcoinmagazine.com/articles/understanding-the-lightning-network-part-building-a-bidirectional-payment-channel-1464710791/)<br>
 [Lightning Network (paper)](https://lightning.network/lightning-network-paper.pdf)<br>
-#### SPECTRE
+#### BlockDAG Protocols (from GHOST to PHANTOM)
 [Ghost Spectre - Aviv Zohar (video)](https://www.youtube.com/watch?v=5mEaBXl3BMM)<br>
 [SPECTRE (paper)](https://eprint.iacr.org/2016/1159.pdf)<br>
+[PHANTOM (paper)](https://eprint.iacr.org/2018/104.pdf)<br>
+[PHANTOM video, BPASE '18](https://www.youtube.com/watch?v=57DCYtk0lWI)
 #### Bitcoin-NG
 [Bitcoin-NG - Ittay Eyal (video)](https://www.youtube.com/watch?v=IVfw5KdZhAE&list=PLW3u28VuDAHLjOHidVUx9tViO6L6_avms&index=13)<br>
 [Bitcoin-NG (paper)](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-eyal.pdf)<br>

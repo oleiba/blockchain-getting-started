@@ -25,8 +25,9 @@ on Ethereum’s Peer-to-Peer Network (paper)](http://www.cs.bu.edu/~goldbe/proje
 [Majority is not Enough:
 Bitcoin Mining is Vulnerable - Selfish Mining (paper)](https://www.cs.cornell.edu/~ie53/publications/btcProcFC.pdf)<br>
 [Smart Contract Bugs and Pitffalls - Vitalik Buterin (video)](https://www.youtube.com/watch?v=SRrUd_6t6Wk&list=PLW3u28VuDAHLjOHidVUx9tViO6L6_avms&index=5)<br>
+[Smart contracts known attacks - Consensys Github](https://github.com/ConsenSys/smart-contract-best-practices/blob/master/docs/known_attacks.md)<br>
 [Finding The Greedy, Prodigal, and Suicidal Contracts at Scale
- (paper)](https://arxiv.org/pdf/1802.06038.pdf)<br>
+ (paper)](https://arxiv.org/pdf/1802.06038.pdf)
 
 ## Scalability
 [On Scaling Decentralized Blockchains

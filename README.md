@@ -17,6 +17,7 @@ Collection of useful resources and academic papers for getting started with bloc
 [Bitcoin's Threat Model](https://jwweatherman.com/#/bitcoinThreatModel)<br>
 [Mastering Bitcoin - Bitcoin Security](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch11.asciidoc)<br>
 [What is a Finney attack? (zero-conf double spend](https://bitcoin.stackexchange.com/questions/4942/what-is-a-finney-attack)<br>
+[A Survey on Security and Privacy Issues of Bitcoin](https://arxiv.org/pdf/1706.00916.pdf)<br>
 [Security Bitcoin Communication Infrastructure - Aviv Zohar (video)](https://www.youtube.com/watch?v=YUHUeglX1aw&list=PLW3u28VuDAHLjOHidVUx9tViO6L6_avms&index=7)<br>
 [Eclipse Attacks on Bitcoin’s Peer-to-Peer Network (paper)](https://eprint.iacr.org/2015/263.pdf)<br>
 [Hijacking Bitcoin: Routing Attacks on Cryptocurrencies (paper)](http://www.avivz.net/pubs/16/btc_hijack.pdf)<br>

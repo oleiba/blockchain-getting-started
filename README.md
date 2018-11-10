@@ -1,30 +1,31 @@
 # Blockchain Getting Started
 Collection of useful resources and academic papers for getting started with blockchain technology.
+Sections are mostly sorted from the most basic to the most advanced.
 
 ## Getting Started
-[Bitcoin White Paper - Satoshi Nakamoto](https://bitcoin.org/bitcoin.pdf)<br>
 [How Bitcoin Works Under the Hood - 22 minutes (video)](https://www.youtube.com/watch?v=Lx9zgZCMqXE)<br>
+[Bitcoin White Paper - Satoshi Nakamoto](https://bitcoin.org/bitcoin.pdf)<br>
 [Mastering Bitcoin - Andreas Antonopolus (digital book)](https://github.com/bitcoinbook/bitcoinbook)<br>
 [MIT cryptocurrencies course](https://github.com/mit-dci/mas.s62)
 
 ## Getting Started - Ethereum
-[Smart Contracts and Blockchain Security Course - University of Illinois](http://soc1024.ece.illinois.edu/teaching/ece398sc/spring2018/)<br>
 [How does Ethereum work anyway? (Blog post)](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)<br>
 [Build Your First Smart Contract With Solidity](https://codeburst.io/build-your-first-ethereum-smart-contract-with-solidity-tutorial-94171d6b1c4b)<br>
+[Smart Contracts and Blockchain Security Course - University of Illinois](http://soc1024.ece.illinois.edu/teaching/ece398sc/spring2018/)<br>
 
 ## Security
-[Bitcoin's Security Model: A Deep Dive](https://www.coindesk.com/bitcoins-security-model-deep-dive/)<br>
-[Bitcoin's Threat Model](https://jwweatherman.com/#/bitcoinThreatModel)<br>
 [Mastering Bitcoin - Bitcoin Security](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch11.asciidoc)<br>
-[What is a Finney attack? (zero-conf double spend](https://bitcoin.stackexchange.com/questions/4942/what-is-a-finney-attack)<br>
+[What is a Finney attack? (zero-confirmations double spend)](https://bitcoin.stackexchange.com/questions/4942/what-is-a-finney-attack)<br>
+[Bitcoin's Threat Model](https://jwweatherman.com/#/bitcoinThreatModel)<br>
+[Bitcoin's Security Model: A Deep Dive](https://www.coindesk.com/bitcoins-security-model-deep-dive/)<br>
 [A Survey on Security and Privacy Issues of Bitcoin](https://arxiv.org/pdf/1706.00916.pdf)<br>
 [Security Bitcoin Communication Infrastructure - Aviv Zohar (video)](https://www.youtube.com/watch?v=YUHUeglX1aw&list=PLW3u28VuDAHLjOHidVUx9tViO6L6_avms&index=7)<br>
+[Majority is not Enough:
+Bitcoin Mining is Vulnerable - Selfish Mining (paper)](https://www.cs.cornell.edu/~ie53/publications/btcProcFC.pdf)<br>
 [Eclipse Attacks on Bitcoin’s Peer-to-Peer Network (paper)](https://eprint.iacr.org/2015/263.pdf)<br>
 [Hijacking Bitcoin: Routing Attacks on Cryptocurrencies (paper)](http://www.avivz.net/pubs/16/btc_hijack.pdf)<br>
 [Low-Resource Eclipse Attacks
 on Ethereum’s Peer-to-Peer Network (paper)](http://www.cs.bu.edu/~goldbe/projects/eclipseEth.pdf)<br>
-[Majority is not Enough:
-Bitcoin Mining is Vulnerable - Selfish Mining (paper)](https://www.cs.cornell.edu/~ie53/publications/btcProcFC.pdf)<br>
 [Smart Contract Bugs and Pitffalls - Vitalik Buterin (video)](https://www.youtube.com/watch?v=SRrUd_6t6Wk&list=PLW3u28VuDAHLjOHidVUx9tViO6L6_avms&index=5)<br>
 [Smart contracts known attacks - Consensys Github](https://github.com/ConsenSys/smart-contract-best-practices/blob/master/docs/known_attacks.md)<br>
 [Finding The Greedy, Prodigal, and Suicidal Contracts at Scale

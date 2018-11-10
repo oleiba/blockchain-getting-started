@@ -36,8 +36,8 @@ on Ethereum’s Peer-to-Peer Network (paper)](http://www.cs.bu.edu/~goldbe/proje
 (A Position Paper)](http://fc16.ifca.ai/bitcoin/papers/CDE+16.pdf)<br>
 #### Lightning Network
 [Lightning Network - easy explanation (video)](https://www.youtube.com/watch?v=rrr_zPmEiME)<br>
-[History of the Lightning Network - Christian Decker (video)](https://youtu.be/HauP9F16mUM)
-[Lightning ≈ Bitcoin - Christian Decker (video)](https://youtu.be/8lMLo-7yF5k)
+[History of the Lightning Network - Christian Decker (video)](https://youtu.be/HauP9F16mUM)<br>
+[Lightning ≈ Bitcoin - Christian Decker (video)](https://youtu.be/8lMLo-7yF5k)<br>
 [Mastering Bitcoin - Lightning Network](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch12.asciidoc#payment-channels-and-state-channels)<br>
 [Understanding the Lightning Network - Bitcoin Magazine](https://bitcoinmagazine.com/articles/understanding-the-lightning-network-part-building-a-bidirectional-payment-channel-1464710791/)<br>
 [Lightning Network (paper)](https://lightning.network/lightning-network-paper.pdf)<br>

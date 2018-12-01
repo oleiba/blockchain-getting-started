@@ -5,6 +5,7 @@ Sections are mostly sorted from the most basic to the most advanced.
 ## Getting Started
 [How Bitcoin Works Under the Hood - 22 minutes (video)](https://www.youtube.com/watch?v=Lx9zgZCMqXE)<br>
 [Bitcoin White Paper - Satoshi Nakamoto](https://bitcoin.org/bitcoin.pdf)<br>
+[Bitcoin's Academic Pedigree - literaturve overview of Bitcoin's building blocks](https://queue.acm.org/detail.cfm?id=3136559)<br> 
 [Mastering Bitcoin - Andreas Antonopolus (digital book)](https://github.com/bitcoinbook/bitcoinbook)<br>
 [MIT cryptocurrencies course](https://github.com/mit-dci/mas.s62)
 

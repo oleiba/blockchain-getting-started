@@ -13,6 +13,7 @@ Sections are mostly sorted from the most basic to the most advanced.
 [How does Ethereum work anyway? (Blog post)](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)<br>
 [Build Your First Smart Contract With Solidity](https://codeburst.io/build-your-first-ethereum-smart-contract-with-solidity-tutorial-94171d6b1c4b)<br>
 [Smart Contracts and Blockchain Security Course - University of Illinois](http://soc1024.ece.illinois.edu/teaching/ece398sc/spring2018/)<br>
+[Mastering Ethereum - Andreas M. Antonopoulos, Gavin Wood (book)](https://github.com/ethereumbook/ethereumbook)
 
 ## Security
 [Mastering Bitcoin - Bitcoin Security](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch11.asciidoc)<br>
